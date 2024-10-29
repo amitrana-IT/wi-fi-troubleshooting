@@ -21,6 +21,7 @@ Have you tried forgetting the network and reconnecting?
 
 What troubleshooting steps have you already attempted?
 
+https://blog.routethis.com/questions-isp-support-agents-ask-on-home-network-calls/ 
 
 
 Amit Rana
