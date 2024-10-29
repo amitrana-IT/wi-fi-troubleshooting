@@ -1,4 +1,4 @@
-the sites and links below
+#the sites and links below
 
 to troubleshoot wi-fi easliy 
 
