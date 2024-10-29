@@ -1,6 +1,8 @@
 # Questions 
 
 
+## https://blog.routethis.com/questions-isp-support-agents-ask-on-home-network-calls/ 
+
 Have you recently changed your Wi-Fi password?
 
 if yes when ?
@@ -21,7 +23,6 @@ Have you tried forgetting the network and reconnecting?
 
 What troubleshooting steps have you already attempted?
 
-https://blog.routethis.com/questions-isp-support-agents-ask-on-home-network-calls/ 
 
 
 Amit Rana
